@@ -1,0 +1,22 @@
+{
+  "name": "expressprogram",
+  "version": "1.0.0",
+  "description": "coco's first express program",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "node meadowlark.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coco-yu/express-program.git"
+  },
+  "author": "coco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coco-yu/express-program/issues"
+  },
+  "homepage": "https://github.com/coco-yu/express-program#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
