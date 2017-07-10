@@ -20,6 +20,7 @@
     "express": "^4.15.3"
   },
   "devDependencies": {
+    "chai": "^4.0.2",
     "grunt-nodemon": "^0.4.2",
     "mocha": "^3.4.2",
     "nodemon": "^1.11.0"
